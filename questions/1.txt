@@ -1,0 +1,50 @@
+(a) The Earth has a surface area of approximately 510 100 000 km2.
+(i) Write this surface area in standard form.
+.......................................... km2 [1]
+(ii) Water covers 70.8% of the Earth’s surface.
+Work out the area of the Earth’s surface covered by water.
+.......................................... km2 [2]
+(b) The table shows the surface area of some countries and their estimated population in 2017.
+Country | Surface area (km^2) | Estimated population in 2017
+Brunei | 5.77 × 10^3 | 433100
+China | 9.60 × 10^6 | 1388000000
+France | 6.41 × 10^5 | 67000000
+Maldives | 3.00 × 10^2 | 374600
+(i) Find the total surface area of Brunei and Maldives.
+.......................................... km2 [1]
+(ii) The ratio surface area of the Maldives : surface area of China
+can be written in the form 1 : n.
+Find the value of n.
+n = ................................................ [2]
+(iii) Find the surface area of France as a percentage of the surface area of China.
+.......................................... % [2]
+(iv) Find the population density of the Maldives.
+[Population density = population ÷ surface area]
+.......................................... people/km2 [2]
+(c) The population of the Earth in 2017 was estimated to be 7.53 × 109.
+The population of the Earth in 2000 was estimated to be 6.02 × 109.
+(i) Work out the percentage increase in the Earth’s estimated population from 2000 to 2017.
+............................................. % [2]
+(ii) Assume that the population of the Earth increased exponentially by y% each year for these
+17 years.
+Find the value of y.
+y = ................................................ [3]
+
+Marking Scheme:
+(y)
+fdsdfsdfsdf
+(a)(i)
+Answer: 5.101[00…] × 10^8 final answer
+Marks: 1
+(a)(ii)
+Answer: 361150800 oe
+Marks: 2
+(b)(i)
+Answer: 6070 oe
+Marks: 1
+(c)(i)
+Answer: 25.1 or 25.08…
+Marks: 2
+(c)(ii)
+Answer: 1.33 or 1.325…
+Marks: 3
